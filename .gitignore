@@ -3,3 +3,4 @@ node_modules
 
 src/css/*.css
 src/html/*.html
+src/images/sprite
